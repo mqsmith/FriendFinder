@@ -2,6 +2,10 @@
 
 This application is essentially a simple dating app. [**Here**](https://friendfinder-gt-bootcamp.herokuapp.com/) is the link to the app on heroku.
 
+## Technologies Used
+JavaScript, node.js 
+Dependencies: express, path
+
 ## Setup
 
 First clone this repo to your local directory.
